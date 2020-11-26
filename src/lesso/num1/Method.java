@@ -16,6 +16,8 @@ public class Method {
 
         System.out.println();
 
+        System.out.println();
+
         int sum = method2(2, 3);
         System.out.println(sum);
         int sum2 = method2(5, 2);
