@@ -1,0 +1,34 @@
+
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿ8ÂÁ¬à.
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(‚ëşØ8ÂÁ¬à.
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8ÂÁ¬à.
+C
+java:S1481#"&Remove this unused "e" local variable.(ÚÈÇ8ÂÁ¬à.
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(ç‚äõùÿÿÿÿ8ÂÁ¬à.
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(‹ÑÒÛûÿÿÿÿ8ÂÁ¬à.
+U	java:S106L"9Replace this use of System.out or System.err by a logger.(ˆËâá8ÂÁ¬à.
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(¶¹‰¼8ÂÁ¬à.
+<
+java:S1659""Declare "t" on a separate line.(€£¸ÿ8ÂÁ¬à.
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(’Ù£şÿÿÿÿ8ÂÁ¬à.
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(ç«Ûâûÿÿÿÿ8ÂÁ¬à.
+\
+java:S1854":Remove this useless assignment to local variable "volume".(…ï¼•ÿÿÿÿÿ8ÂÁ¬à.
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8ÂÁ¬à.
+<
+java:S1659#"Declare "w" on a separate line.(ÚÈÇ8ÂÁ¬à.
+C
+java:S1481#"&Remove this unused "w" local variable.(ÚÈÇ8ÂÁ¬à.
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(¼¿” ÿÿÿÿÿ8ÂÁ¬à.
+U	java:S106J"9Replace this use of System.out or System.err by a logger.(‡¤Ÿ”8ÂÁ¬à.
+U	java:S106K"9Replace this use of System.out or System.err by a logger.(¯ô¢ô8ÂÁ¬à.
+\
+java:S1854":Remove this useless assignment to local variable "volume".(ßÒµ·şÿÿÿÿ8ÂÁ¬à.
+U	java:S106M"9Replace this use of System.out or System.err by a logger.(Áß‡Ü8ÂÁ¬à.
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(Úæ™×8ÂÁ¬à.
+T	java:S1060"9Replace this use of System.out or System.err by a logger.(Ê‘²`8ÂÁ¬à.
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(ÙÕÅëøÿÿÿÿ8ÂÁ¬à.
+W
+java:S1854'":Remove this useless assignment to local variable "volume".(¢ÛÕ8ÂÁ¬à.
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(£«©ÿÿÿÿÿ8ÂÁ¬à.
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(êğ»ıÿÿÿÿ8ÂÁ¬à.
